@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Latihan 8</string>
+
+    <string name="Image">MainFoto</string>
+    <string name="lableNama">Nama</string>
+    <string name="titik2">:</string>
+    <string name="nama">M. Dwiyan Hartono</string>
+    <string name="lableNIM">NIM</string>
+    <string name="nim">3420160144</string>
+    <string name="checkBoxBand2">Sheila on 7</string>
+    <string name="checkBoxBand1">Dewa 19</string>
+    <string name="Label1">Band Favorite</string>
+    <string name="checkBoxBand3">Slank</string>
+    <string name="Label2">Makanan Favorite</string>
+    <string name="submit">Submit</string>
+    <string name="radioButtonMakan1">Udang Saus Padang</string>
+    <string name="radioButtonMakan2">Sambel Goreng Kentang</string>
+    <string name="radioButtonMakan3">Rendang</string>
+</resources>
